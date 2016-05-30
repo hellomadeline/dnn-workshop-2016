@@ -1,4 +1,4 @@
-# dnn-workshop-2016
+## dnn-workshop-2016
 
 ### Student Showcases:
 
