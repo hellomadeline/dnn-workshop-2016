@@ -8,3 +8,4 @@
       * Demo Blog: http://hupilidemo.github.io/fany-blog/
       * From Silva: http://hupilidemo.github.io/HKBU/
    * [Madeline](https://github.com/hellomadeline)
+      * From Madeline: http://hellomadeline.github.io/my-blog/
